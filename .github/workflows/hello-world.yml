@@ -4,4 +4,4 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - run: make say-hello
+      - run: node index.js
