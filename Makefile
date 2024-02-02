@@ -1,2 +1,2 @@
 say-hello:
-	node index.js
+	Hello, World!
